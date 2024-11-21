@@ -1,13 +1,14 @@
-Server mission files and config files from A3 Wasteland Warzone. 
+Server mission files and config files from A3 Wasteland Warzone. (Based on the old wasteland mod.)
+\
+\ 
 \
 \
-Based on the old wasteland mod. 
+Combat: 
 \
 \
-This is a PvP & PvE server. 
+PvP and PvE.
 \
 \
-What to do here: 
 \
 \
 Missions:
@@ -15,6 +16,8 @@ Missions:
 \
 This server has many different missions. One mission will be active at the time and when the mission is completed a new random mission will soon be activated.
 Mission examples: Money Transport, Town Invasion, Big Military Base Strongholds, Heli Patrol, Attack Boat Patrol with a sunken treasure, Tank Patrol and more.
+\
+\
 \
 \
 Survival: 
@@ -25,7 +28,7 @@ You will have indicators for food and water in your down right corner and inside
 \
 \
 \
-
+\
 Saving: 
 \
 \
@@ -50,7 +53,6 @@ You can open a new one after cutting the old one.
 \
 \
 \
-
 Food and Water: 
 \
 \
