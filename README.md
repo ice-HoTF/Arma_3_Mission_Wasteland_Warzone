@@ -92,7 +92,7 @@ They are all marked on the map.
 \
 \
 Enemies:
-\
+
 \
 - AI soldiers and bandits spawns in towns and POI's. 
 - Soldiers, military vehicles and weapon crates spawns inside military bases.
