@@ -54,6 +54,7 @@ You can open a new one after cutting the old one.
 \
 \
 \
+\
 Food and Water: 
 \
 \
@@ -83,7 +84,6 @@ Big Money can be earned through the missions.
 \
 \
 Stores: 
-\
 \
 \
 You can buy guns, ammo, equipment and essensials at different stores at different places on Stratis Island. 
