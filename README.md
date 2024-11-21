@@ -1,4 +1,4 @@
-Server mission files and config files from A3 Wasteland Warzone. (Based on the old wasteland mod)
+Server mission files and config files for A3 Wasteland Warzone. A remastered Wasteland mission with high performance!
 \
 \
 ![upper](https://github.com/user-attachments/assets/05fbaf28-1e88-43b7-9495-c8b89bbcb6a6)
