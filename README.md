@@ -91,7 +91,7 @@ They are all marked on the map.
 \
 \
 \
-Enemies: 
+Enemies:
 \
 \
 - AI soldiers and bandits spawns in towns and POI's. 
