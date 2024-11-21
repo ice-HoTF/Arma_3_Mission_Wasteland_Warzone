@@ -85,6 +85,7 @@ Big Money can be earned through the missions.
 Stores: 
 \
 \
+\
 You can buy guns, ammo, equipment and essensials at different stores at different places on Stratis Island. 
 They are all marked on the map.
 \
@@ -92,7 +93,6 @@ They are all marked on the map.
 \
 \
 Enemies:
-\
 \
 \
 - AI soldiers and bandits spawns in towns and POI's. 
