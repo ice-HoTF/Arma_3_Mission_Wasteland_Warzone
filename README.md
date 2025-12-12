@@ -74,7 +74,6 @@ Open the 'Map' with 'M' to find 'Info and Help'.
 \
 \
 \
-![20241121214035_1](https://github.com/user-attachments/assets/d96075bf-54b1-4097-b198-b80b617b56a3)
 ![20241121214022_1](https://github.com/user-attachments/assets/88ff6eb6-3a0a-43de-85b4-964c18ab0732)
 ![20241121213941_1](https://github.com/user-attachments/assets/45d80a02-349b-4feb-825f-0b0dea0fff60)
 ![20241121213909_1](https://github.com/user-attachments/assets/e2e31365-3b2b-4392-9915-12e5a4e72138)
