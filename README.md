@@ -23,27 +23,10 @@ Mission examples: Money Transport, Town Invasion, Big Military Base Strongholds,
 \
 \
 \
-Survival: 
-\
-\
-To survive you need to stay healthy. Make sure you're good on food and water. 
-You will have indicators for food and water in your down right corner and inside the inventory window.
-\
-\
-\
-\
-Saving: 
-\
-\
-Autosave is activated for your character, gear, vehicles and player location. Extra Guns and items can be stored inside player owned vehicles and/or weapon crates.
-\
-\
-\
-\
 Player Menu:
 \
 \
-Scroll the mouse wheel and click on 'Player Menu' with your mouse wheel. In this menu you can eat, drink, join group, drop items, drop cash, toggle earplugs and open the 'Help' page.
+Scroll the mouse wheel and click on 'Player Menu' with your mouse wheel. In this menu you can join group, drop items, toggle earplugs and open the 'Help' page.
 \
 \
 \
@@ -57,30 +40,11 @@ You can open a new one after cutting the old one.
 \
 \
 \
-Food and Water: 
-\
-\
-Buy from the shop, loot from soldiers or find on military sites. 
-Shops are marked on the map, food sacks and wells are not.
-\
-\
-\
-\
 Vehicles: 
 \
 \
-Buy from the shop or find on military sites and towns. Shops are marked on the map.
-After entering a new vehicle scroll your mouse wheel to "Take Ownership" of the vehicle. This will save the vehicle in the internal database.
+Pick Up from the shop or find on military sites and towns. Shops are marked on the map.
 Vehicles can be repaired, get ammo refills in the service stations marked on the map. Every vehicle can be repaired/serviced exept for planes.
-\
-\
-\
-\
-Money: 
-\
-\
-Earn money by doing missions and looting dead people.
-Big Money can be earned through the missions.
 \
 \
 \
@@ -88,7 +52,7 @@ Big Money can be earned through the missions.
 Stores: 
 \
 \
-You can buy guns, ammo, equipment and essensials at different stores at different places on Stratis Island. 
+You can pick up guns, ammo, equipment and essensials at different stores at different places on Stratis Island. 
 They are all marked on the map.
 \
 \
@@ -106,7 +70,6 @@ Enemies:
 \
 Info and Help: 
 Open the 'Map' with 'M' to find 'Info and Help'.
-
 \
 \
 \
