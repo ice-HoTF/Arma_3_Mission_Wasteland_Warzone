@@ -1,0 +1,35 @@
+version=1;
+blood=1;
+singleVoice=0;
+gamma=1;
+brightness=1;
+ppBrightness=1.01;
+ppContrast=1.0599999;
+ppSaturation=1.08;
+difficulty="Custom";
+class DifficultyPresets
+{
+	class CustomDifficulty
+	{
+		class Options
+		{
+			groupIndicators=1;
+			mapContent=1;
+			autoReport=1;
+		};
+		aiLevelPreset=3;
+	};
+	class CustomAILevel
+	{
+		skillAI=1;
+		precisionAI=0.30000001;
+	};
+};
+soundEnableEAX=1;
+soundEnableHW=0;
+volumeCD=5;
+volumeFX=5;
+volumeSpeech=5;
+volumeVoN=5;
+volumeMapDucking=1;
+volumeUI=1;
