@@ -83,7 +83,6 @@ Open the 'Map' with 'M' to find 'Info and Help'.
 ![20241121213747_1](https://github.com/user-attachments/assets/48dae89b-6e35-4ff8-ba8c-a4210fd1776b)
 ![20241121213718_1](https://github.com/user-attachments/assets/20acb8d4-e06a-4745-87b7-73774f33e6e4)
 ![20241121213700_1](https://github.com/user-attachments/assets/5cc168a9-d00d-4630-963d-1955bb16f682)
-![20241121213658_1](https://github.com/user-attachments/assets/4be7751f-64dd-4b6a-8991-3ad41d39a14f)
 ![20241121213646_1](https://github.com/user-attachments/assets/db84f70e-02b4-4063-8fc0-ac3c72ca6e4d)
 
 
